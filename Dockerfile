@@ -4,7 +4,7 @@ FROM tomcat:8.0
 
 
 
-MAINTAINER rohit <rohitrathod@gmail.com>
+MAINTAINER rohit <bidhu.biswal@gmail.com>
 
 
 
